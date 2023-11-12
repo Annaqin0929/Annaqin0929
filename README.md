@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anna
 - 👀 I’m interested in applied Data Science, Machine Learning in Engineering and SaaS;
-- 🌱 I’m currently living in Christchurch and offered a scholarship in the FAN (Future Power Architecture Network) project, which is a 7-year, New Zealand-wide research program.
+- 🌱 Currently lives in Christchurch since I was offered a scholarship in the FAN (Future Power Architecture Network) project, which is a 7-year, New Zealand-wide research program.
 - 📫 Please feel free to reach me yuanyuanqin97@gmail.com
 
 <!---
